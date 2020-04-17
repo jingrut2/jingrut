@@ -1,2 +1,0 @@
-# jingrut
-hello
